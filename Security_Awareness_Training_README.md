@@ -1,5 +1,8 @@
 
+
+### No prior knowledge of cybersecurity is required. The program is designed to be accessible to participants of all backgrounds.
 # Security Awareness Training Program
+
 
 ## Description
 This Security Awareness Training Program is designed to educate employees about the importance of cybersecurity, identify common cyber threats, and promote best practices for maintaining a secure digital environment. Our goal is to equip each participant with the knowledge and tools necessary to protect themselves and the organization from cyber threats.
@@ -52,15 +55,8 @@ A recap of key points and encouragement for proactive engagement with cybersecur
 
 ---
 
-## Getting Started
-To begin the training program, follow these steps:
-1. Review each section in the order listed in the Table of Contents.
-2. Participate actively in all interactive activities.
-3. Complete the assessments provided at the end of each section.
-4. Provide feedback through the provided channels.
 
-## Prerequisites
-No prior knowledge of cybersecurity is required. The program is designed to be accessible to participants of all backgrounds.
+
 
 
 
