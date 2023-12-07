@@ -20,14 +20,14 @@ This Security Awareness Training Program is designed to educate employees about 
 10. [Resources and Support](#resources-and-support)
 11. [Conclusion](#conclusion)
 
-Introduction to Cybersecurity
+## Introduction to Cybersecurity
 Purpose of Security Training: Explain the importance of cybersecurity awareness. Some of the below concepts we will go over in #2 called Common threat vectors but we are going to mention them here briefly… There are certain concepts in Cybersecurity, even if you aren’t an expert that you must try to understand and learn the language in order to protect yourself against malicious attacks. Attackers don’t care about who you are, what you look like, and they don’t care about anything else except for exploiting you for what they want at that time. There are attacks that are personal, and these are categorized as something else but what you will find, an attacker wants to hit as many people or organizations as possible. They want to cover a large space in a short amount of time. The purpose of security training is to understand and just have a baseline understanding of what people in this world are actively trying to do to you 
 
 <h1>Security concepts </h1>
 
-    <ul>Network Security:</ul>
+## Network Security:
 
-    <ul>This involves measures taken to protect the integrity of a network and its data, including both hardware and software technologies. It encompasses activities to prevent and monitor unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure.</ul>
+    This involves measures taken to protect the integrity of a network and its data, including both hardware and software technologies. It encompasses activities to prevent and monitor unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure.
 
 Firewalls: A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. A firewall acts as a barrier between a trusted network and an untrusted network.
 
