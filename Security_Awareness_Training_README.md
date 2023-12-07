@@ -29,16 +29,20 @@ Purpose of Security Training: Explain the importance of cybersecurity awareness.
 
     This involves measures taken to protect the integrity of a network and its data, including both hardware and software technologies. It encompasses activities to prevent and monitor unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure.
 
-Firewalls: A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. A firewall acts as a barrier between a trusted network and an untrusted network.
+## Firewalls: 
+A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. A firewall acts as a barrier between a trusted network and an untrusted network.
 
-Encryption: The process of converting data or information into a code to prevent unauthorized access. It's a key aspect of data protection and confidentiality.
+## Encryption: 
+The process of converting data or information into a code to prevent unauthorized access. It's a key aspect of data protection and confidentiality.
 
-Two-Factor Authentication (2FA): An extra layer of security used to ensure that people trying to gain access to an online account are who they say they are. It typically involves something you know (a password) and something you have (a smartphone, a token).
+## Two-Factor Authentication (2FA): 
+An extra layer of security used to ensure that people trying to gain access to an online account are who they say they are. It typically involves something you know (a password) and something you have (a smartphone, a token).
 
-Virtual Private Network (VPN): A VPN extends a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+## Virtual Private Network (VPN): 
+A VPN extends a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
-Data Breaches: Incidents in which information is accessed without authorization. Understanding how breaches occur and the steps that can be taken to prevent them is vital.
-
+## Data Breaches: 
+Incidents in which information is accessed without authorization. Understanding how breaches occur and the steps that can be taken to prevent them is vital.
 
 
 ## Identifying Common Threats
@@ -62,20 +66,7 @@ Engaging quizzes, scenario-based training, and phishing simulations to reinforce
 ## Continuous Learning and Updating
 Information on how the program will be regularly updated with the latest cybersecurity trends and threats.
 
-## Evaluation and Feedback
-Details about the assessment methods to gauge the effectiveness of the training and how feedback will be collected.
+
 
 ## Resources and Support
 List of additional resources for further learning and channels for seeking help on cybersecurity matters.
-
-## Conclusion
-A recap of key points and encouragement for proactive engagement with cybersecurity practices.
-
----
-
-
-
-
-
-
-
