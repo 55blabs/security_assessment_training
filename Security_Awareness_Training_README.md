@@ -21,7 +21,18 @@ This Security Awareness Training Program is designed to educate employees about 
 11. [Conclusion](#conclusion)
 
 ## Introduction to Cybersecurity
-An overview of the basic concepts of cybersecurity, explaining its importance and fundamental terms.
+## Purpose of Security Training: Explain the importance of cybersecurity awareness. Some of the below concepts we will go over in #2 called Common threat vectors but we are going to mention them here briefly… There are certain concepts in Cybersecurity, even if you aren’t an expert that you must try to understand and learn the language in order to protect yourself against malicious attacks. Attackers don’t care about who you are, what you look like, and they don’t care about anything else except for exploiting you for what they want at that time. There are attacks that are personal, and these are categorized as something else but what you will find, an attacker wants to hit as many people or organizations as possible. They want to cover a large space in a short amount of time. The purpose of security training is to understand and just have a baseline understanding of what people in this world are actively trying to do to you 
+
+<h1>Security concepts </h1>
+
+## Network Security: This involves measures taken to protect the integrity of a network and its data, including both hardware and software technologies. It encompasses activities to prevent and monitor unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure.
+## Firewalls: A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. A firewall acts as a barrier between a trusted network and an untrusted network.
+## Encryption: The process of converting data or information into a code to prevent unauthorized access. It's a key aspect of data protection and confidentiality.
+## Two-Factor Authentication (2FA): An extra layer of security used to ensure that people trying to gain access to an online account are who they say they are. It typically involves something you know (a password) and something you have (a smartphone, a token).
+## Virtual Private Network (VPN): A VPN extends a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+## Data Breaches: Incidents in which information is accessed without authorization. Understanding how breaches occur and the steps that can be taken to prevent them is vital.
+
+
 
 ## Identifying Common Threats
 Detailed information on common cyber threats like phishing, malware, and social engineering, including how to recognize and avoid them.
